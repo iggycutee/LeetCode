@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeetCode
 LeetCode solutions
 
@@ -12,3 +13,6 @@ Feel free to use these solutions as a reference for your own Leetcode practice. 
 If you have any feedback, suggestions, or improvements to my solutions, feel free to create an issue or pull request. I'm always open to learning and improving my problem-solving skills.
 
 Happy coding!
+=======
+# newrepofortest
+>>>>>>> 4dd08f4 (first commit)
